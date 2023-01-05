@@ -1,0 +1,4 @@
+## This are optional apt packages usefull for initial troubleshooting 
+iputils-ping
+vim
+telnet
