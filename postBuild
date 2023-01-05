@@ -1,0 +1,4 @@
+## make sure conda is on last version + jupyterlab bug workaround 
+set -ex
+conda update -n base conda
+jupyter lab build --minimize=False
